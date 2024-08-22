@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FullStackPr_ToDoList.props" />
+</Project>
